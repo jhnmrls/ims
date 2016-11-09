@@ -1,0 +1,34 @@
+Entity Type
+-Person
+-Establishment
+
+Establishment Modules
+- Vote ? (Equality, Violation)
+- News
+- Forum
+- Bills
+- Items
+- Rates
+- Purchases
+- Account
+- Profile
+
+Person
+- News
+- Forum
+- Vote
+- Purchases
+- Account 
+- Profile
+
+Coop
+- Vote
+- News
+- Forum
+- Account
+
+Views
+(Web View - Person, Establishment, Coop)
+(Mobile - Person and Establishment)
+
+
